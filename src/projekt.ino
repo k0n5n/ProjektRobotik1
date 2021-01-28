@@ -27,7 +27,7 @@ void set_motor_speed(int speed, int motor_nr)
 
 }
 
-int calculate_speed(int ir_result, int us_result_1, int us_result_2)
+int calculate_speed(int ir_result, int us_result_4, int us_result_2)
 {
 
 }
